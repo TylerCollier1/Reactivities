@@ -19,7 +19,7 @@ using AutoMapper;
 using Application.Core;
 using API.Extensions;
 
-namespace API
+namespace API // npm start in client-app
 {
     public class Startup
     {
